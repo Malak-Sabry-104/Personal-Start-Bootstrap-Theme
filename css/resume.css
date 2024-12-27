@@ -1,0 +1,39 @@
+.navbar-brand{
+  color: #1E30F3;
+}  
+
+/* footer p , a{
+  font-size: 12px;
+} */
+#sec-1 .heading span{
+  font-size: 50px;
+  background-image: linear-gradient(to right,#292FEC ,#D71F86) ;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-weight: bold;
+}
+.my-card .inner{
+padding: 24px !important;  
+
+}
+.my-card h2{
+  color: #1E30F3;
+  font-size: 22px;
+  
+
+}
+#sec-1 h1{
+  color: #1E30F3;
+
+
+}
+.my-card .subtitle{
+font-weight: bold;
+}
+.my-card{
+  width: 90%;
+  /* height: 40vh; */
+  box-shadow: rgba(0,0,0,0.150) 0 3px 12px ;
+  border: none !important;
+  border-radius: 20px;
+}

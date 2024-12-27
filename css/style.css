@@ -1,0 +1,75 @@
+.inner{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+#sec-1 .navbar-brand{
+color: #1E30F3;
+
+}
+#sec-1 h3{
+  margin:35px   0 ;
+  font-size: 10px;
+  color:white;
+  background-image: linear-gradient(to right,#292FEC,#D71F86);
+  border-radius: 5px;
+  padding:  3px 10px;
+}
+#sec-1 h2{
+  font-size: 25px !important;
+}
+#sec-1 h1{
+  font-size:50px;
+  background-image: linear-gradient(to right,#292FEC,#D71F86);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+.btns-group{
+  gap:30px;
+}
+#btn1-sec1{
+  background-color: #292FEC !important;
+  color: white;
+}
+#btn2-sec1{
+  border: 1px black solid !important;
+}
+.img-card{
+  margin: 25px 0 ;
+  width:500px;
+}
+#sec-2 h1{
+  width:fit-content;
+  background-image: linear-gradient(to right,#292FEC ,#D71F86) ;
+  -webkit-background-clip: text ;
+  -webkit-text-fill-color: transparent ;
+}
+#sec-2 h2{
+  font-size: 20px !important;
+}
+.icons{
+  font-size: 30px;
+  gap:15px;
+  color: rgba(255, 255, 255, 0.435);
+  margin: 0 0 60px 0;
+}
+
+.gard {
+  background-image: linear-gradient(to right,#292FEC 50%,#D71F86) ;
+  /* -webkit-text-fill-color: transparent; */
+  /* -webkit-background-clip: text; */
+  /* color: transparent; */
+}
+
+/* 
+.icons i {
+  background-image: linear-gradient(to right, #292FEC 50%, #D71F86); 
+  -webkit-background-clip: text; 
+  -webkit-text-fill-color: transparent; 
+
+} */
+footer p , a{
+  font-size: 12px;
+}
